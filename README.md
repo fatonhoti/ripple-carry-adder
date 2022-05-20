@@ -21,7 +21,7 @@ the carry $c_{1}$ algebraically as follows:
 
 $$s_{0}\ =\ x_{0}\ \oplus\ y_{0}$$ 
 
-$$c_{1}\ =\ xy$$
+$$c_{1}\ =\ x_{0}y_{0}$$
 
 We can now easily construct a circuit that adds two 1-bit numbers:
 
